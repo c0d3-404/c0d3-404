@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-use my email: c0d3.404.glich.report@gmail.com to reach me.
+use my email: c0d3.404.game.dev@gmail.com to reach me.
 
 <!---
 c0d3-404/c0d3-404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
